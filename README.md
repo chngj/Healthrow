@@ -22,3 +22,8 @@ The dataset contains three tables. Metadata found include information about camp
 - **Signup Rate:** The percent of people who see a campaign and sign up for a Row Health Plan.
 - **Cost per Signup:** The average dollars spent to acquire a signup from each campaign.
 - **Click Through Rate:** The percent of people who see a campaign and click on the associated link.
+
+#### Signup Rate
+- Across campaign categories, Health for All had the best performing signup rate (2.08%). They also had the second highest number of signups (3.5k).
+- #Healthyliving had 3.7K signups but fell through with their signup rate at a low of 0.27%.
+- Health for All is an outlier in its campaign type of Health Awareness. The second highest performing campaign type only has a 0.02% signup rate.
