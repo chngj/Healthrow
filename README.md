@@ -19,6 +19,6 @@ The dataset contains three tables. Metadata found include information about camp
 ## Insights Summary 
 
 **For campaign evaluation performance, we focused on these north star metrics:**
-- Signup Rate: The percent of people who see a campaign and sign up for a Row Health Plan.
-- Cost per Signup: The average dollars spent to acquire a signup from each campaign.
-- Click Through Rate: The percent of people who see a campaign and click on the associated link.
+- **Signup Rate:** The percent of people who see a campaign and sign up for a Row Health Plan.
+- **Cost per Signup:** The average dollars spent to acquire a signup from each campaign.
+- **Click Through Rate:** The percent of people who see a campaign and click on the associated link.
