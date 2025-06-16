@@ -15,3 +15,10 @@ Row Health is a medical insurance company that was founded in 2016. 2019 was whe
 The dataset contains three tables. Metadata found include information about campaigns, signups, and user demographics. Customer claim information is connected via customer id. 
 
 ![Image](https://github.com/user-attachments/assets/cf932e7b-87e5-47fa-95b9-5fb1a17fdcdf)
+
+## Insights Summary 
+
+**For campaign evaluation performance, we focused on these north star metrics:**
+- Signup Rate: The percent of people who see a campaign and sign up for a Row Health Plan.
+- Cost per Signup: The average dollars spent to acquire a signup from each campaign.
+- Click Through Rate: The percent of people who see a campaign and click on the associated link.
