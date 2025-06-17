@@ -39,6 +39,10 @@ The dataset contains three tables. Metadata found include information about camp
 
 
 
+![Image](https://github.com/user-attachments/assets/305f298b-a10b-4a48-a09a-a114b2feaf57)
+
+
+
 
 
 
