@@ -34,7 +34,9 @@ The dataset contains three tables. Metadata found include information about camp
 - Family Coverage Plan does not contain any CTR data or Cost per Click data, investigate to see if there is missing data or issues with data collection.
 
 #### Cost per Signup
-- 
+- Golden Year Security in addition to a low CTR also has a high cost per signup as a result. The cps is $176.73 while the average is $29.04. An investigation should be conducted into Golden Year Security to either discontinue or cut costs.
+- Coverage matters has the lowest cost per sign up at $0.65. A key note is that CTR is only at 10.43% so this campaign has very high retention once customers click and learn about the campaign.
+
 
 
 
