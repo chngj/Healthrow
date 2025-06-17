@@ -27,3 +27,19 @@ The dataset contains three tables. Metadata found include information about camp
 - Across campaign categories, Health for All had the best performing signup rate (2.08%). They also had the second highest number of signups (3.5k).
 - #Healthyliving had 3.7K signups but fell through with their signup rate at a low of 0.27%.
 - Health for All is an outlier in its campaign type of Health Awareness. The second highest performing campaign type only has a 0.02% signup rate.
+
+#### Click through Rate:
+- Health for All had the highest CTR at 25.48% and Benefits update 22.17%. Health for All noticeably has the lowest amount of impressions at 170K.
+- Golden Years Security had the lowest CTR at 1.41%. An investigation should be done to see why CTR rate is so low when impressions are not considerably low.
+- Family Coverage Plan does not contain any CTR data or Cost per Click data, investigate to see if there is missing data or issues with data collection.
+
+#### Cost per Signup
+- 
+
+
+
+
+
+
+
+
