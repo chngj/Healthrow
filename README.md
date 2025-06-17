@@ -37,10 +37,12 @@ The dataset contains three tables. Metadata found include information about camp
 - Golden Year Security in addition to a low CTR also has a high cost per signup as a result. The cps is $176.73 while the average is $29.04. An investigation should be conducted into Golden Year Security to either discontinue or cut costs.
 - Coverage matters has the lowest cost per sign up at $0.65. A key note is that CTR is only at 10.43% so this campaign has very high retention once customers click and learn about the campaign.
 
+## Recommendations
+- asdasdasd
+- asd
 
 
-
-
+## Dashboard 
 ![Image](https://github.com/user-attachments/assets/305f298b-a10b-4a48-a09a-a114b2feaf57)
 
 
