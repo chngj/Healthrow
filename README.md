@@ -38,8 +38,9 @@ The dataset contains three tables. Metadata found include information about camp
 - Coverage matters has the lowest cost per sign up at $0.65. A key note is that CTR is only at 10.43% so this campaign has very high retention once customers click and learn about the campaign.
 
 ## Recommendations
-- asdasdasd
-- asd
+- **Health for All:** Reallocate the budget from Golden Years Security to Health for All. Golden Years Security runs too high of a cost for the amount of signups. Reallocating to a better performing campaign can bring in more customer signups.
+- **Compare Health Coverage:** We can also reallocate budget from this campaign over to benefits update. Compare Health Coverage has the highest cost but ranks in the middle for CTR and impressions. The increase of spending to a better performing campaign could be better for the marginal increase.
+- **Post Pandemic Spending:** Looking at the signup trends after COVID-19, there is a significant drop signups. This affects all campaigns so there should be a decrease in all spending for health campaigns.
 
 
 ## Dashboard 
